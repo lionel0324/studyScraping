@@ -1,4 +1,4 @@
-# scrapingFutsalTournament
+# studyScraping
 
 ## 目的
 宮城のフットサル大会情報を集約して、どこかに格納する
